@@ -308,7 +308,7 @@
                         BorderThickness="0"
                         ToolTipService.ToolTip="Bookmarks"
                         x:Name="BookmarksButton">
-                        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE8A4;" />
+                        <FontIcon FontFamily="Segoe MDL2 Assets" Glyph="&#xE840;" />
                         <Button.Flyout>
                             <MenuFlyout Opening="BookmarksFlyout_OnOpening" x:Name="BookmarksFlyout" />
                         </Button.Flyout>
